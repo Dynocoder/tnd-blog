@@ -160,4 +160,14 @@ The admin portal provides functionality for managing blogs and categories:
 
 ## Contributing
 
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
+Contributions are welcome! Please fork this repository and submit a pull request following the guidelines below for any improvements.
+
+
+### Branch Naming:
+ - New Feature development:
+    - feature-{initials}-{issue_number}-{short_summary}
+    - for example: feature-sp-6-adding-contribution-instructions
+ - Bugs:
+    - hotfix-{initial}-{issue_number}-{short_summary}
+    - for example: hotfix-sp-6-fixing-contribution-instructions
+
