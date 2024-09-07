@@ -1,10 +1,6 @@
 import BlogCard from './BlogCard';
+import blogs from './BlogData';
 
-const blogs = [
-  { id: 1, title: 'Blog Title 1', summary: 'This is a summary of blog 1' },
-  { id: 2, title: 'Blog Title 2', summary: 'This is a summary of blog 2' },
-  // Add more sample blogs
-];
 
 function BlogList() {
   return (
